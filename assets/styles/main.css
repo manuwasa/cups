@@ -1,0 +1,357 @@
+@media (max-width: 600px) {
+  .hero-content .form-hero input {
+    width: 220px !important;
+    margin-left: 15px;
+  }
+  .card-about {
+    padding-bottom: 30px;
+    margin-top: -20px;
+  }
+  .gallery {
+    margin-top: 20px;
+    width: 405px;
+  }
+  .section-benefit .icon-row img {
+    margin-top: 20px;
+  }
+  .section-feedback textarea {
+    width: 300px !important;
+  }
+}
+
+.logo {
+  margin-left: 50px;
+}
+
+.nav-item a {
+  margin-right: 30px;
+  font-family: "Assistant", sans-serif;
+  font-size: 18px;
+  font-weight: 510;
+  color: #0a2f34 !important;
+  border-radius: 1px;
+}
+
+.nav-item a:hover {
+  padding-bottom: 5px;
+  margin-top: 2px;
+  border-bottom: 2px solid #0a2f34;
+}
+
+.hero {
+  height: 90vh;
+  background-image: url("../images/BG@2x.png");
+  background-size: cover;
+}
+
+.hero-content {
+  margin-top: 150px;
+  margin-left: 40px;
+}
+
+.hero-content h1 {
+  font-family: "Playfair Display", serif;
+  font-weight: bold;
+  color: #0a2f34;
+  font-size: 50px;
+}
+
+.hero-content .second {
+  font-family: "Playfair Display", serif;
+  font-weight: normal;
+  font-size: 30px;
+  color: #0a2f34;
+}
+
+.hero-content p {
+  font-family: "Assistant", sans-serif;
+  font-weight: 300;
+  font-size: 20px;
+  color: #0a2f34;
+}
+
+.hero-content .form-hero {
+  margin-left: -15px;
+}
+
+.hero-content .form-hero input {
+  width: 303px;
+  height: 50px;
+  background: #fff;
+  border: 1px solid #ddd;
+}
+
+.hero-content .form-hero .btn-send {
+  width: 100px;
+  height: 50px;
+  background: #e9f7f7;
+  border: 1px solid #cfdfdc;
+  margin-left: -20px;
+  font-family: "Assistant", sans-serif;
+  font-weight: 600;
+  font-size: 20px;
+  color: #0a2f34;
+}
+
+.hero-content .form-hero .btn-send:hover {
+  background-color: #ddf5f5;
+}
+
+.hero-content .btn-learn {
+  width: 120px;
+  height: 50px;
+  background: #0a5964;
+  font-family: "Assistant", sans-serif;
+  font-weight: 600;
+  font-size: 18px;
+  color: #e9f7f7;
+  padding-top: 10px;
+}
+
+.hero-content .btn-learn:hover {
+  background-color: #08434b;
+}
+
+.section-about {
+  margin-top: 100px;
+}
+
+.card-about {
+  border: 1px solid #cfdfdc;
+  border-radius: 10px;
+  padding-top: 30px;
+  padding-left: 50px;
+  padding-right: 50px;
+  padding-bottom: 30px;
+  -webkit-box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.16);
+          box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.16);
+}
+
+.card-about h3 {
+  font-family: "Assistant", sans-serif;
+  font-weight: 600;
+  font-size: 30px;
+  color: #0a2f34;
+}
+
+.card-about p {
+  font-family: "Assistant", sans-serif;
+  font-weight: 300;
+  font-size: 18px;
+  color: #0a2f34;
+}
+
+.card-about .btn-blog {
+  width: 136px;
+  height: 40px;
+  border-radius: 15px;
+  background: #edd2b4;
+  font-family: "Assistant", sans-serif;
+  font-weight: 600;
+  color: #fff;
+}
+
+.card-about .btn-blog:hover {
+  background-color: #efcca5;
+}
+
+.gallery {
+  height: 410px;
+  border-radius: 5px;
+}
+
+.section-benefit {
+  margin-top: 100px;
+  background-color: #f5f9f9;
+  padding: 50px 0;
+}
+
+.section-benefit h3 {
+  font-family: "Assistant", sans-serif;
+  font-weight: 600;
+  font-size: 30px;
+  color: #0a2f34;
+}
+
+.section-benefit h3 .cup-bold {
+  font-weight: bold;
+}
+
+.section-benefit p {
+  font-family: "Assistant", sans-serif;
+  font-weight: 300;
+  font-size: 20px;
+  color: #0a2f34;
+}
+
+.section-benefit .icon-row {
+  margin-top: 50px;
+}
+
+.section-benefit .icon-row h4 {
+  font-family: "Assistant", sans-serif;
+  font-weight: bold;
+  font-size: 20px;
+  color: #0a2f34;
+  margin-top: 10px;
+}
+
+.section-benefit .icon-row p {
+  font-family: "Assistant", sans-serif;
+  font-weight: normal;
+  font-size: 20px;
+  color: #0a2f34;
+}
+
+.section-articles {
+  margin-top: 100px;
+}
+
+.section-articles h3 {
+  font-family: "Assistant", sans-serif;
+  font-weight: 600;
+  font-size: 30px;
+  color: #0a2f34;
+}
+
+.section-articles p {
+  font-family: "Assistant", sans-serif;
+  font-weight: 300;
+  font-size: 20px;
+  color: #0a2f34;
+}
+
+.section-articles .articles-row {
+  margin-top: 30px;
+}
+
+.section-articles .articles-row .card-articles {
+  margin-top: 20px;
+  border-radius: 5px;
+  background: #fff;
+  border: 1px solid #c4c4c4;
+  -webkit-box-shadow: 2px 3px 6px rgba(0, 0, 0, 0.16);
+          box-shadow: 2px 3px 6px rgba(0, 0, 0, 0.16);
+}
+
+.section-articles .articles-row .card-articles h5 {
+  font-family: "Playfair Display", serif;
+  font-weight: 600;
+  font-size: 20px;
+  letter-spacing: 0.05em;
+  color: #0a2f34;
+}
+
+.section-articles .articles-row .card-articles p {
+  font-family: "Assistant", sans-serif;
+  font-weight: normal;
+  font-size: 12px;
+  letter-spacing: 0.05em;
+  color: #0a2f34;
+}
+
+.section-articles .articles-row .card-articles:hover {
+  -webkit-box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.16);
+          box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.16);
+}
+
+.section-articles .btn-more {
+  margin-top: 50px;
+  width: 136px;
+  height: 40px;
+  border-radius: 15px;
+  background: #edd2b4;
+  font-family: "Assistant", sans-serif;
+  font-weight: 600;
+  color: #fff;
+}
+
+.section-articles .btn-more:hover {
+  background-color: #efcca5;
+}
+
+.section-feedback {
+  margin-top: 100px;
+  background-color: #f5f9f9;
+  padding: 50px 0;
+}
+
+.section-feedback h3 {
+  font-family: "Assistant", sans-serif;
+  font-weight: 600;
+  font-size: 30px;
+  color: #0a2f34;
+}
+
+.section-feedback p {
+  font-family: "Assistant", sans-serif;
+  font-weight: 300;
+  font-size: 20px;
+  color: #0a2f34;
+}
+
+.section-feedback textarea {
+  margin-top: 30px;
+  width: 536px;
+  height: 136px;
+  background: #fff;
+  border: 1px solid #ddd;
+}
+
+.section-feedback .btn-send {
+  margin-top: 30px;
+  width: 140px;
+  height: 41px;
+  border-radius: 15px;
+  background: #0a5964;
+  font-family: "Assistant", sans-serif;
+  font-weight: 600;
+  font-size: 18px;
+  color: #ddd;
+}
+
+.section-feedback .btn-send:hover {
+  background-color: #08434b;
+}
+
+footer {
+  margin-top: 100px;
+  background-color: #0a2f34;
+  padding-top: 35px;
+}
+
+footer .foot-image img {
+  max-height: 40px;
+}
+
+footer .foot-image h5 {
+  margin-top: 15px;
+  margin-left: 10px;
+  font-family: "Playfair Display";
+  font-weight: bold;
+  font-size: 20px;
+  letter-spacing: 0.05em;
+  text-align: left;
+  color: #fff;
+}
+
+footer h5 {
+  margin-top: 15px;
+  font-family: "Assistant", sans-serif;
+  font-weight: 600;
+  font-size: 20px;
+  color: #ddd;
+}
+
+footer p {
+  margin-top: 18px;
+  font-family: "Assistant", sans-serif;
+  font-weight: 300;
+  font-size: 12px;
+  color: #fff;
+}
+
+footer a {
+  text-decoration: none;
+}
+/*# sourceMappingURL=main.css.map */
